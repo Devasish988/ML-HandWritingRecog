@@ -1,18 +1,18 @@
 # ML-HandWritingRecog
 
-##Compiling Software 
+## Compiling Software 
 
 PyCharm
 
-##Programming Language
+## Programming Language
 
 Python
 
-##Used Python Version 
+## Used Python Version 
 
 3.6
 
-##Project Interpreter
+## Project Interpreter
 Keras(v2.2.4)
 numpy (v1.14.5)
 opencv-python (v3.4.2)
